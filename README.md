@@ -1,5 +1,5 @@
 # Let's Start Reducing the Carbon Footprint of Academic Conferences.
-This repository is a companion page for the following publication:
+This repository is a companion page for the following publication, submitted for revision at the international conference ICT4S 2022:
 > Markus Funke, and Patricia Lago. 2022. Let’s Start Reducing the Carbon Footprint of Academic Conferences.
 
 It contains all the material required for replicating the study, including: SLR-protocol, figures, results.
