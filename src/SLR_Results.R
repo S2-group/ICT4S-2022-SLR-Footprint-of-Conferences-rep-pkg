@@ -223,8 +223,8 @@ on-site,social,12
 on-site,environmental,16
 virtual,technical,1
 virtual,economic,4
-virtual,social,8
-virtual,environmental,8
+virtual,social,9
+virtual,environmental,9
 hybrid,technical,1
 hybrid,economic,4
 hybrid,social,4
